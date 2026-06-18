@@ -13,3 +13,9 @@ its ran in CLI via ./server-stats.sh
 - basic file permission changes such as chmod +x
 - why scripts need ./ to just search the file they are in
 Project page: [roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
+
+### 02 Log Archive Tool
+
+A tool that compresses and archives logs into timestamped tar.gz files.
+
+Project page: [roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
