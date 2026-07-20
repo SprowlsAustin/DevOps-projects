@@ -12,6 +12,7 @@ its ran in CLI via ./server-stats.sh
 - linux shows system info as files (/proc)
 - basic file permission changes such as chmod +x
 - why scripts need to just search the file they are in
+
 Project page: [roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
 
 ### 02 Log Archive Tool
