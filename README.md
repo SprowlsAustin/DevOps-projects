@@ -26,3 +26,15 @@ Project page: [roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects
 - A tool that analyzes a nginx log by the top 5 IPs, paths, status codes and, user agents.
 
 Project page: [roadmap.sh/projects/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser)
+
+### 04 GitHub Pages Deployment
+
+- This Projects serves as an introduction into CI/CD and how github actions works and the syntax used for it. whenver a push is made a vm is spun up with certain permissions and then checks the repo conigures the pages packages the files and then publishes them.
+
+Project page: [roadmap.sh/projects/github-actions-deployment-workflow](https://roadmap.sh/projects/github-actions-deployment-workflow)
+
+### 05 SSH Remote Server Setup
+
+- This project was an introduction to SSH and cloud servers. I launched an Ubuntu EC2 instance on the AWS free tier and configured it for key-based SSH access using two separate key pairs.
+
+Project page: [roadmap.sh/projects/ssh-remote-server-setup](https://roadmap.sh/projects/ssh-remote-server-setup)
