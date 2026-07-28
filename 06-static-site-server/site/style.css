@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-color: #1a1a2e;
+    color: #e94560;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #0f3460;
+}
+
+img {
+    max-width: 400px;
+    border-radius: 10px;
+}

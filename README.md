@@ -38,3 +38,9 @@ Project page: [roadmap.sh/projects/github-actions-deployment-workflow](https://r
 - This project was an introduction to SSH and cloud servers. I launched an Ubuntu EC2 instance on the AWS free tier and configured it for key-based SSH access using two separate key pairs.
 
 Project page: [roadmap.sh/projects/ssh-remote-server-setup](https://roadmap.sh/projects/ssh-remote-server-setup)
+
+### 06-static-site-server
+
+- This project used the EC2 cloud server from the previous project to serve a static site and introduced deploy.sh and how to update a website with it and rsync.
+
+Project page: [roadmap.sh/projects/static-site-server](https://roadmap.sh/projects/static-site-server)
