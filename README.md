@@ -44,3 +44,9 @@ Project page: [roadmap.sh/projects/ssh-remote-server-setup](https://roadmap.sh/p
 - This project used the EC2 cloud server from the previous project to serve a static site and introduced deploy.sh and how to update a website with it and rsync.
 
 Project page: [roadmap.sh/projects/static-site-server](https://roadmap.sh/projects/static-site-server)
+
+### 07-basic-DNS-setup
+
+- This project was an introduction into how DNS works and how to create and secure a domain with TLS
+
+Project page: [roadmap.sh/projects/basic-dns](https://roadmap.sh/projects/basic-dns)
