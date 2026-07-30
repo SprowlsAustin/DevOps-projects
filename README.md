@@ -50,3 +50,9 @@ Project page: [roadmap.sh/projects/static-site-server](https://roadmap.sh/projec
 - This project was an introduction into how DNS works and how to create and secure a domain with TLS
 
 Project page: [roadmap.sh/projects/basic-dns](https://roadmap.sh/projects/basic-dns)
+
+### 08-Simple-Monitoring
+
+- This project was an introduction into the basics of monitoring and how to setup a basic monitoring dashboard as well as tearing it down
+
+Project page: [roadmap.sh/projects/simple-monitoring-dashboard](https://roadmap.sh/projects/simple-monitoring-dashboard)
