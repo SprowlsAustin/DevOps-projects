@@ -1,0 +1,14 @@
+○ dummy.service - Dummy Systemd Service
+     Loaded: loaded (]8;;file://DevOps-Lab/etc/systemd/system/dummy.service\/etc/systemd/system/dummy.service]8;;\; [0;1;32menabled[0m; preset: [0;1;32menabled[0m)
+     Active: inactive (dead) since Fri 2026-07-31 17:33:37 UTC; 5s ago
+   Duration: 3min 54.239s
+ Invocation: c7df492b2ab8466d9ddea23290a9f625
+    Process: 10689 ExecStart=/usr/local/bin/dummy.sh (code=killed, signal=TERM)
+   Main PID: 10689 (code=killed, signal=TERM)
+   Mem peak: 2.1M
+        CPU: 38ms
+
+Jul 31 17:29:43 DevOps-Lab systemd[1]: Started dummy.service - Dummy Systemd Service.
+Jul 31 17:33:37 DevOps-Lab systemd[1]: Stopping dummy.service - Dummy Systemd Service...
+Jul 31 17:33:37 DevOps-Lab systemd[1]: dummy.service: Deactivated successfully.
+Jul 31 17:33:37 DevOps-Lab systemd[1]: Stopped dummy.service - Dummy Systemd Service.

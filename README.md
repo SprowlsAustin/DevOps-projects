@@ -56,3 +56,9 @@ Project page: [roadmap.sh/projects/basic-dns](https://roadmap.sh/projects/basic-
 - This project was an introduction into the basics of monitoring and how to setup a basic monitoring dashboard as well as tearing it down
 
 Project page: [roadmap.sh/projects/simple-monitoring-dashboard](https://roadmap.sh/projects/simple-monitoring-dashboard)
+
+### 09-dumm-systemd-service
+
+- This project sets up dummy service that appends logs to a file using a unit file and allows the service to be managed 
+
+Project page: [roadmap.sh/projects/dummy-systemd-service](https://roadmap.sh/projects/dummy-systemd-service)
