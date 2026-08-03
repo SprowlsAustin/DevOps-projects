@@ -62,3 +62,9 @@ Project page: [roadmap.sh/projects/simple-monitoring-dashboard](https://roadmap.
 - This project sets up dummy service that appends logs to a file using a unit file and allows the service to be managed 
 
 Project page: [roadmap.sh/projects/dummy-systemd-service](https://roadmap.sh/projects/dummy-systemd-service)
+
+### 10-basic-Dockerfile
+
+- this project serves as an introduction into dockerfiles and containerization and building images and deploying them.
+
+Project page: [roadmap.sh/projects/basic-dockerfile](https://roadmap.sh/projects/basic-dockerfile)
